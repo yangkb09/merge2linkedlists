@@ -52,7 +52,7 @@ function mergeLinkedLists(headOne, headTwo) {
 }
 ```
 
-**Optimized Solution 2:** O(n+m) time complexity, O(n+m) space complexity (n=length(headOne),m=length(headTwo))
+**Solution 2:** O(n+m) time complexity, O(n+m) space complexity (n=length(headOne),m=length(headTwo))
 
 ```js
 function mergeLinkedLists(headOne, headTwo) {
